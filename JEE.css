@@ -1,0 +1,27 @@
+
+body{
+    text-align: center; margin-left: 500px; margin-top: 50px; margin-bottom: 50px;  background:linear-gradient(to right, red,pink);
+
+}
+
+.jee_subjects{
+    background-color: white;
+    width: 500px; height: 600px; align-items: center; border-radius:80px
+}
+.physics
+{
+    color: black; background-color: red; text-align: center; font-size: 30px; width: 413.06px;
+}
+.chemistry
+{
+    color: black; background-color: blue; text-align: center; font-size: 30px; width: 413.06px; 
+}
+.choose_subjects{
+    font-size: 75px;
+}
+button{
+    padding: 11px; font-family:'Times New Roman', Times, serif; 
+}
+fieldset{
+    background:linear-gradient(to top, yellow, green)
+}

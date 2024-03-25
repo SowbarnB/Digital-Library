@@ -1,0 +1,12 @@
+body{
+background: linear-gradient(to right,#FFBF00,#FFE135,white);
+width:600px;
+
+}
+fieldset{
+align:center;
+margin:100px 500px;
+width:600px;
+text-size:50px;
+
+}

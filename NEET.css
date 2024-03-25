@@ -1,0 +1,26 @@
+
+body{
+    text-align: center; margin-left: 500px; margin-top: 50px; margin-bottom: 50px;  background:linear-gradient(to right, red,pink)
+}
+
+.neet_subjects{
+    background-color: white;
+    width: 500px; height: 600px; align-items: center; border-radius:80px
+}
+.botany
+{
+    color: black; background-color: red; text-align: center; font-size: 30px; width: 413.06px;
+}
+.zoology
+{
+    color: black; background-color: blue; text-align: center; font-size: 30px; width: 413.06px; 
+}
+.choose_subjects_neet{
+    font-size: 75px;
+}
+button{
+    padding: 11px; font-family:'Times New Roman', Times, serif; 
+}
+fieldset{
+    background:linear-gradient(to top, yellow, green)
+}

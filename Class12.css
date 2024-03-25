@@ -1,0 +1,32 @@
+
+body{
+    text-align: center; margin-left: 500px; margin-top: 50px; margin-bottom: 50px; background:linear-gradient(to right, red,pink)
+}
+
+.chapter_choose{
+    background-color: white;
+    width: 500px; height: 600px; align-items: center; border-radius:80px
+}
+.first_chapter
+{
+    color: black; background-color: red; text-align: center; font-size: 30px; width: 413.06px;
+}
+.second_chapter
+{
+    color: black; background-color: blue; text-align: center; font-size: 30px; width: 413.06px; 
+}
+.neet{
+    color: black; background-color: green; text-align: center; font-size: 30px; width: 413.06px;
+}
+.jee{
+    color: black; background-color:aquamarine; text-align: center; font-size: 30px; width: 413.06px;
+}
+.choose_your_chapter{
+    font-size: 75px;
+}
+button{
+    padding: 11px; font-family:'Times New Roman', Times, serif; 
+}
+fieldset{
+    background:linear-gradient(to top, yellow, green)
+}
